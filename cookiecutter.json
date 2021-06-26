@@ -1,0 +1,4 @@
+{
+  "project_title": "Your Project",
+  "_directory": "{{ cookiecutter.project_title.replace(' ', '-') }}"
+}
